@@ -1,7 +1,7 @@
 ## Universidad Autónoma de Baja California 
 # FIAD Programación y Métodos numéricos 
 
-**Roilhi Ibarra **
+**Roilhi Ibarra**
 
 Repositorio con los archivos de las prácticas de laboratorio.
 
